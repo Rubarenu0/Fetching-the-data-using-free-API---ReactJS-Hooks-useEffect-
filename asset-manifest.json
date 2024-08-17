@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fetching-the-data-using-free-API---ReactJS-Hooks-useEffect-/static/css/main.9437f477.css",
+    "main.js": "/Fetching-the-data-using-free-API---ReactJS-Hooks-useEffect-/static/js/main.b4436985.js",
+    "static/js/453.1d897f5a.chunk.js": "/Fetching-the-data-using-free-API---ReactJS-Hooks-useEffect-/static/js/453.1d897f5a.chunk.js",
+    "index.html": "/Fetching-the-data-using-free-API---ReactJS-Hooks-useEffect-/index.html",
+    "main.9437f477.css.map": "/Fetching-the-data-using-free-API---ReactJS-Hooks-useEffect-/static/css/main.9437f477.css.map",
+    "main.b4436985.js.map": "/Fetching-the-data-using-free-API---ReactJS-Hooks-useEffect-/static/js/main.b4436985.js.map",
+    "453.1d897f5a.chunk.js.map": "/Fetching-the-data-using-free-API---ReactJS-Hooks-useEffect-/static/js/453.1d897f5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9437f477.css",
+    "static/js/main.b4436985.js"
+  ]
+}
